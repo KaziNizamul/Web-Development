@@ -1,0 +1,15 @@
+div	{
+	background: rgb(250,235,215);
+}
+
+.first	{
+	background: #000000;
+}
+
+#fir {
+	color: white;
+}
+
+#linethrough {
+	text-decoration: line-through;
+}

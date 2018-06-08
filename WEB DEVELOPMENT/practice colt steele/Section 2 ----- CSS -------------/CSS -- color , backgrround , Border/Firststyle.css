@@ -1,0 +1,25 @@
+
+	h1 {
+		color: #6acc7c;
+		/*background : rgb(219,112,147);*/
+		background: url(https://u.imageresize.org/aef2e51a-2d7e-443b-bfa9-9982aca70694.jpeg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		height: 50px;
+		
+	}	
+
+	h4	{
+		/*color: rgba(96, 199, 209,0.6);*/
+		background: rgb(64,224,208);
+		
+	}
+
+	li {
+		color: rgb(244, 69, 66);
+		border: 1px dashed magenta ;
+	}
+	
+	body {
+		background: url(https://bit.ly/2kUP6N1);
+	}
